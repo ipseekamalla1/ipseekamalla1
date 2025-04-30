@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<h2> View My porfolio <a href="https://ipseeka-portfolio.vercel.app/">Here</a></h2>
+
+
 - 🔭 I’m currently working on **Bank Website**
 
 - 🌱 I’m currently learning **NextJs, Machine learning**
@@ -14,7 +17,6 @@
 - 💬 Ask me about **React,Python,Javascript**
 
 - 📫 How to reach me **ipseeka.malla1@gmail.com**
-- View My porfolio <a href="https://ipseeka-portfolio.vercel.app/">Here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
