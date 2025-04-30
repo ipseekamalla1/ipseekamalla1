@@ -14,6 +14,7 @@
 - 💬 Ask me about **React,Python,Javascript**
 
 - 📫 How to reach me **ipseeka.malla1@gmail.com**
+- View My porfolio <a href="https://ipseeka-portfolio.vercel.app/">Here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
