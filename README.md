@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ipseeka.malla1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/ipseeka-malla-971b23190/</h3>
 <p align="left">
   https://www.linkedin.com/in/ipseeka-malla-971b23190/
 </p>
