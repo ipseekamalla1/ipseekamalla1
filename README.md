@@ -10,7 +10,7 @@
 <h2> View My porfolio <a href="https://ipseeka-portfolio.vercel.app/">Here</a></h2>
 
 
-- 🔭 I’m currently working on **Bank Website**
+- 🔭 I’m currently working on HealthCareWebsite
 
 - 🌱 I’m currently learning **NextJs, Machine learning**
 
